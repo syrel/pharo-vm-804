@@ -29,3 +29,9 @@ SqueakDebug.log
 # Metacello-github cache
 /github-cache
 github-*.zip
+pharo-vm/Pharo.app
+pharo
+pharo-ui
+libIssue804.dylib
+*.sources
+pharo-local
